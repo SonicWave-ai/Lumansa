@@ -8,7 +8,7 @@ Tools Used
 
 - HTML
 - CSS
-- VS Code (optional)
+- VS Code 
 
 Author
 
